@@ -15,4 +15,4 @@ npm install --save-dev gh-pages-commit
 
 ### usage
 
-See [test](https://github.com/zenflow/gh-pages-commit/blob/master/tests/index.js)
+See [test](https://github.com/zenflow/gh-pages-commit/blob/master/tests/index.js) & [result](https://zenflow.github.io/gh-pages-commit/)
