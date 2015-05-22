@@ -29,6 +29,7 @@
     "lodash.foreach": "^3.0.3"
   },
   "devDependencies": {
+    "fs-extra": "^0.18.3",
     "uuid": "^2.0.1"
   }
 }
