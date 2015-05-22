@@ -1,6 +1,6 @@
 {
   "name": "gh-pages-commit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "commits files to gh-pages branch and lets you push it on your own",
   "main": "lib/index.js",
   "repository": {
