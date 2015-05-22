@@ -1,5 +1,4 @@
 # gh-pages-commit
-
 commits files to gh-pages branch and lets you push it on your own
 
 [![dependencies](https://david-dm.org/zenflow/gh-pages-commit.svg)](https://david-dm.org/zenflow/gh-pages-commit)
