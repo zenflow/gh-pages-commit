@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "commits files to gh-pages branch and lets you push it on your own",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "node tests/index.js"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/zenflow/gh-pages-commit"
@@ -18,7 +15,10 @@
     "deploy",
     "update"
   ],
-  "author": "Matthew Francis Brunetti <=>",
+  "author": {
+    "name": "Matthew Francis Brunetti",
+    "email": "zenflow87@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zenflow/gh-pages-commit/issues"
